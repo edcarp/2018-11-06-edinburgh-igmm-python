@@ -177,8 +177,6 @@ To do all that, we'll have to learn a little bit about programming.
 To get started, follow the directions on the "[Setup](setup/)" page to download data
 and install a Python interpreter.
 
-
-{% comment %} 
  SURVEYS - DO NOT EDIT SURVEY LINKS 
  
 <h2 id="surveys">Surveys</h2>
@@ -195,7 +193,6 @@ and install a Python interpreter.
 {% endif %}
 
 <hr/>
-{% endcomment %}
 
 {% comment %}
   Collaborative Notes
