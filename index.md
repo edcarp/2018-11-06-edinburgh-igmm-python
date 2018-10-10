@@ -177,7 +177,7 @@ To do all that, we'll have to learn a little bit about programming.
 To get started, follow the directions on the "[Setup](setup/)" page to download data
 and install a Python interpreter.
 
- SURVEYS - DO NOT EDIT SURVEY LINKS 
+<hr/>
  
 <h2 id="surveys">Surveys</h2>
 <p>Please be sure to complete these surveys before and after the workshop.</p>
