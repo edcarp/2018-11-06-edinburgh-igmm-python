@@ -5,7 +5,7 @@ permalink: /setup/
 root: ..
 ---
 
-### Download and install the Anaconda Python3 distribution
+### Download and install the Anaconda Python3 distribution
 
 1. Download the correct Anaconda Python 3 installer from: https://www.anaconda.com/download/ 
    (**make sure it is Python 3, not Python 2**).
