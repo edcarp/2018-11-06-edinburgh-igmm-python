@@ -5,6 +5,12 @@ permalink: /setup/
 root: ..
 ---
 
+### Download and install the Anaconda Python3 distribution
+
+1. Download the correct Anaconda Python 3 installer from: https://www.anaconda.com/download/ 
+   (**make sure it is Python 3, not Python 2**).
+2. Install Anaconda Python 3 on your system.
+
 ### Obtain lesson materials
 
 1. Download [python-novice-inflammation-data.zip][zipfile1]
